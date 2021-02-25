@@ -8,17 +8,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dongguaku/dadonghua.git"
+        "url": "git+https://github.com/cmm188/jdac.git"
     },
     "keywords": [
         "sign"
     ],
-    "author": "canghaiyishengxiao2021",
+    "author": "cmm188",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/dongguaku/dadonghua/issues"
+        "url": "https://github.com/cmm188/jdac/issues"
     },
-    "homepage": "https://github.com/dongguaku/dadonghua#readme",
+    "homepage": "https://github.com/cmm188/jdac#readme",
     "dependencies": {
         "download": "^8.0.0",
         "request": "^2.88.2",
